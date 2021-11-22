@@ -2,7 +2,7 @@
 
 Implementation of a login and registration back-end system. 
 
-##What was used in the project
+## What was used in the project
 - Spring boot
 - Spring security
 - PostgreSQL
