@@ -5,8 +5,8 @@ server:
 
 spring:
   datasource:
-    password: 983@Luke@983
-    username: manojesus
+    password: 
+    username: 
     url: jdbc:postgresql://localhost:5432/db_registration
   jpa:
     hibernate:
